@@ -2,6 +2,7 @@
 <img width="100%" src="./header.svg" alt="welcome banner" />
 </div>
 
+<!--
 ## 🌷 Hello, I’m Nikz!
 
 - 💻 CS student on a coding journey  
@@ -9,6 +10,7 @@
 - 🌱 Learning something new every day  
 - 🎨 Enjoys both coding and design  
 - ✨ GitHub = my learning diary ♡
+-->
 
 ## Tech Stack
 
