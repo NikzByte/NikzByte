@@ -32,23 +32,6 @@
   <img src="https://img.shields.io/badge/Git-241442?style=for-the-badge&logo=git&logoColor=F5A58E" />
 </p>
 
-<br>
-<h2 align="center">✦ FEATURED CONSTELLATIONS ✦</h2>
-
-<p align="center">
-  <sub>A collection of projects, ideas, and things I've brought to life.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NikzByte/In-Other-Words">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikzByte&repo=In-Other-Words&bg_color=160D2B&title_color=C9A7FF&text_color=E6DDF5&icon_color=F5D77A&border_color=3B285B" />
-  </a>
-  <a href="https://github.com/NikzByte/Lost-And-Found-Portal-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikzByte&repo=Lost-And-Found-Portal-System&bg_color=160D2B&title_color=C9A7FF&text_color=E6DDF5&icon_color=F5D77A&border_color=3B285B" />
-  </a>
-</p>
-
-
 <p align="center">
   <sub>✧ Dream beyond the stars. Build beyond the limits. ✧</sub>
 </p>
